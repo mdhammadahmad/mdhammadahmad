@@ -6,9 +6,15 @@
   (Suggests that even in uncertainty, those with a deep soul find beauty in both the light and the dark.)
 </p>
 
-I am Mohammad Hammd Ahmad
-Deeply interested in Artificial Intelligence.
-Feel free to connect for a conversation.
+<p align ="center">
+  <i>I am Mohammad Hammd Ahmad</i>
+  <br>
+  <i>Deeply interested in Artificial Intelligence.</i>
+  <br>
+  <i>Feel free to connect for a conversation.</i>
+</p>
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-hammad-ahmad-188628227) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdhammadahmadgithub@gmail.com) 
