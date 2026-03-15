@@ -36,15 +36,15 @@
 
 | Area | Skills |
 |------|--------|
-| 👨‍💻 Programming | Python, C++, SQL, FastAPI, OOPs, DSA |
+| 👨‍💻 Programming | Python, SQL, FastAPI, DSA |
 | 📐 Mathematics | Statistics, Probability, Linear Algebra, Hypothesis Testing |
-| 🤖 Machine Learning | Scikit-Learn, Clustering, KMeans, Anomaly Detection, Pandas, NumPy, MLflow |
+| 🤖 Machine Learning | Scikit-Learn, XGboost, LightGBM, Catboost, RandomForest, Decision Tree, Clustering, KMeans, Anomaly Detection, Pandas, NumPy, MLflow |
 | 🧠 Deep Learning | PyTorch, TensorFlow, Keras, CNN, RNN, LSTM, Autoencoders |
 | 👁️ Computer Vision | OpenCV, YOLO, CLIP, Diffusion Models |
-| 🗣️ NLP | SpaCy, NLTK, BERT, Sentence Transformers, Topic Modelling |
-| 🔮 Generative AI & LLMs | OpenAI, Llama, DeepSeek, Fine-tuning (LoRA/QLoRA), Prompt Engineering |
+| 🗣️ NLP | SpaCy, NLTK, BERT, Sentence Transformers, Topic Modelling, Translation |
+| 🔮 Generative AI & LLMs | OpenAI, Llama, DeepSeek, Nvidia, Fine-tuning (LoRA/QLoRA), Prompt Engineering |
 | 🤖 Agentic AI | LangChain, LangGraph, MCP, Agentic Pipelines, Multi-step Reasoning |
-| 📚 RAG | Vector Search, Reranking, ChromaDB, FAISS, Pinecone, Knowledge Bases |
+| 📚 RAG | Vector Search, Reranking, ChromaDB, FAISS, Pinecone, Qdrant, Knowledge Bases |
 | ☁️ Cloud & DevOps | AWS, Azure, Docker, Git, Nginx |
 | 📊 Analytics & Visualization | Power BI, Plotly, Streamlit, Matplotlib |
 
