@@ -14,7 +14,15 @@
   <i>Feel free to connect for a conversation.</i>
 </p>
 
-
+## 🌐 Socials
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammad-hammad-ahmad-188628227">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mdhammadahmadgithub@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-hammad-ahmad-188628227) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdhammadahmadgithub@gmail.com) 
@@ -45,15 +53,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=mdhammadahmad&color=blueviolet&style=for-the-badge)
 
 
-## 🌐 Socials
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-hammad-ahmad-188628227">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mdhammadahmadgithub@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</p>
+
 
 ---
 
