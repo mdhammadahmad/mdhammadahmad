@@ -16,8 +16,6 @@
 
 ## 🧠 Skills
 
-## 🧠 Skills
-
 | Area | Skills |
 |------|--------|
 | 👨‍💻 Programming | Python, SQL, FastAPI, DSA |
@@ -34,29 +32,18 @@
 
 </table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdhammadahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mdhammadahmad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhammadahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-![Visitors](https://komarev.com/ghpvc/?username=mdhammadahmad&color=blueviolet&style=for-the-badge)
-
-
-
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdhammadahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdhammadahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="50%"/>
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mdhammadahmad&theme=dark&hide_border=false" width="100%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mdhammadahmad&theme=dark&hide_border=false" width="50%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhammadahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhammadahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="500%"/>
 </p>
 
 ---
