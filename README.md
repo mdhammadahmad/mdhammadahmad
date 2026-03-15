@@ -60,10 +60,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdhammadahmad&color=blueviolet&style=for-the-badge"/>
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
