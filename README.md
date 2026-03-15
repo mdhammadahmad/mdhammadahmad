@@ -14,24 +14,6 @@
   <i>Feel free to connect for a conversation.</i>
 </p>
 
-
-## 🧠 Skills
-
-<table>
-  
-- 🤖 **AI / ML** — LLMs, RAG, Computer Vision, NLP
-- 🏗️ **MLOps** — MLflow, model serving, pipelines
-- 🌊 **Big Data** — Spark, Hadoop, Hive
-- ☁️ **Cloud** — AWS, Azure
-- 🔌 **APIs** — FastAPI, Flask, REST
-- 🐳 **DevOps** — Docker, Nginx, CI/CD
-- 📊 **Analytics** — Power BI, Plotly, Streamlit
-
-</table>
-
-## 🧠 Skills
-<table>
-  
 ## 🧠 Skills
 
 | Area | Skills |
