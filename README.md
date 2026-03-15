@@ -27,7 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhammadahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=mdhammadahmad&color=blueviolet&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=mdhammadahmad&color=blueviolet&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
