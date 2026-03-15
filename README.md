@@ -15,7 +15,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=mdhammadahmad&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-**"Guliston mein jo rahe hamnasheen bahaaron ke, falak-e-ulfat mein bhi the raazdaan sitaaron ke."**
+**Gulista-n mein jo rahe ham-nasheen bahaaron ke, falak-e-ulfat mein bhi the raazdaan sitaaron ke.**
 
 (Suggests that even in uncertainty, those with a deep soul find beauty in both the light and the dark.)
 
