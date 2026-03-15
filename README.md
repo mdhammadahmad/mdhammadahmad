@@ -27,9 +27,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhammadahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-<p align="center">
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mdhammadahmad.mdhammadahmad)
-<p/>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mdhammadahmad.mdhammadahmad)
+
 
 [![](https://visitcount.itsvg.in/api?id=mdhammadahmad&icon=0&color=2)](https://visitcount.itsvg.in)
 
