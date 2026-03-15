@@ -28,16 +28,6 @@
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=mdhammadahmad&color=blueviolet&style=for-the-badge)
-```
-
----
-
-To use, go to `github.com/mdhammadahmad/mdhammadahmad` (your special profile repo — same name as your username), edit `README.md` and paste whichever badge you want. If that repo doesn't exist yet:
-```
-1. New repository
-2. Name it exactly: mdhammadahmad
-3. Check "Add a README file"
-4. Paste the badge in README.md
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
