@@ -27,11 +27,17 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhammadahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=mdhammadahmad&color=blueviolet&style=for-the-badge)
+```
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mdhammadahmad.mdhammadahmad)
+---
 
-
-[![](https://visitcount.itsvg.in/api?id=mdhammadahmad&icon=0&color=2)](https://visitcount.itsvg.in)
+To use, go to `github.com/mdhammadahmad/mdhammadahmad` (your special profile repo — same name as your username), edit `README.md` and paste whichever badge you want. If that repo doesn't exist yet:
+```
+1. New repository
+2. Name it exactly: mdhammadahmad
+3. Check "Add a README file"
+4. Paste the badge in README.md
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
