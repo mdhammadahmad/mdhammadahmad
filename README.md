@@ -3,7 +3,7 @@
 <p align="center">
   <i>Gulista-n mein jo rahe ham-nasheen bahaaron ke, falak-e-ulfat mein bhi the raazdaan sitaaron ke.</i>
   <br>
-  (Suggests that even in uncertainty, those with a deep soul find beauty in both the light and the dark.)
+  (Suggests that even in uncertainty, those with a deep soul find beauty in both the light and the dark)
 </p>
 
 <p align ="center">
