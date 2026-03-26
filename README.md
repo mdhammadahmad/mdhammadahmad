@@ -34,20 +34,6 @@
 
 ---
 
-## 📊 GiHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdhammadahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="50%"/>
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mdhammadahmad&theme=dark&hide_border=false" width="50%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhammadahmad&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="50%"/>
-</p>
-
----
-
 ## 🌐 Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-hammad-ahmad-188628227">
